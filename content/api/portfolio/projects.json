@@ -5,7 +5,7 @@
     "nameAr": "غيث",
     "descriptionAr": "منصة دينية تعليمية" ,
     "img":"/portfolioAssets/img/gheyth.png",
-    "link":"https:gheyth.github.io",
+    "link":"https://gheyth.github.io",
     "linkG": "/gheyth/"
   },
   {
@@ -14,7 +14,7 @@
     "nameAr": "مرجعي",
     "descriptionAr": "تطبيق عملي لواجهات المستخدم",
     "img":"/portfolioAssets/img/marj3i.png",
-    "link":"https://frs99.github.io/marj3i/",
+    "link":"https://faresdjefaflia.github.io/marj3i/",
     "linkG": "/frs99/marj3i/"
   },
   {
@@ -23,7 +23,7 @@
     "nameAr": "FrsCodes",
     "descriptionAr": "الموقع الإلكتروني السابق",
     "img":"/portfolioAssets/img/frscodes.png",
-    "link":"https://frs99.github.io/frscodes/",
+    "link":"https://faresdjefaflia.github.io/frscodes/",
     "linkG": "/frs99/frscodes/"
   },
   {
@@ -32,7 +32,25 @@
     "nameAr": "دليل متبرع",
     "descriptionAr": "تطبيق عملي لموقع افتراضي",
     "img":"/portfolioAssets/img/dalil.png",
-    "link":"https://frs99.github.io/dalilmutabarie/",
+    "link":"https://faresdjefaflia.github.io/dalilmutabarie/",
     "linkG": "/frs99/dalilmutabarie/"
+  },
+  {
+    "name": "Apage",
+    "description": "General landing page for applications",
+    "nameAr": "Apage",
+    "descriptionAr": "صفحة هبوط عامة للتطبيقات",
+    "img":"/portfolioAssets/img/apage.png",
+    "link":"https://etmami-themeforest.web.app/apage/preview/",
+    "linkG": "/elmoziml/Apage-App-Landing-Page/"
+  },
+  {
+    "name": "JSAlgohub",
+    "description": "JavaScript educational site",
+    "nameAr": "JSAlgohub",
+    "descriptionAr": "موقع تعليمي للجافا سكريبت",
+    "img":"/portfolioAssets/img/jsalgohub.png",
+    "link":"https://www.behance.net/gallery/213412537/JSAlgoHub",
+    "linkG": "/frs99/jsalgohub/"
   }
 ]
