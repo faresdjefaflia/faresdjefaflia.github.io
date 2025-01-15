@@ -18,5 +18,5 @@
 </template>
 
 <script setup>
-  const {data: repos} = await useFetch('https://api.github.com/users/frs99/repos')
+  const {data: repos} = await useFetch('https://api.github.com/users/faresdjefaflia/repos')
 </script>
