@@ -15,7 +15,7 @@
     "descriptionAr": "تطبيق عملي لواجهات المستخدم",
     "img":"/portfolioAssets/img/marj3i.png",
     "link":"https://faresdjefaflia.github.io/marj3i/",
-    "linkG": "/frs99/marj3i/"
+    "linkG": "/faresdjefaflia/marj3i/"
   },
   {
     "name": "FrsCodes",
@@ -24,7 +24,7 @@
     "descriptionAr": "الموقع الإلكتروني السابق",
     "img":"/portfolioAssets/img/frscodes.png",
     "link":"https://faresdjefaflia.github.io/frscodes/",
-    "linkG": "/frs99/frscodes/"
+    "linkG": "/faresdjefaflia/frscodes/"
   },
   {
     "name": "Dalilmutabarie",
@@ -33,7 +33,7 @@
     "descriptionAr": "تطبيق عملي لموقع افتراضي",
     "img":"/portfolioAssets/img/dalil.png",
     "link":"https://faresdjefaflia.github.io/dalilmutabarie/",
-    "linkG": "/frs99/dalilmutabarie/"
+    "linkG": "/faresdjefaflia/dalilmutabarie/"
   },
   {
     "name": "Apage",
@@ -41,16 +41,16 @@
     "nameAr": "Apage",
     "descriptionAr": "صفحة هبوط عامة للتطبيقات",
     "img":"/portfolioAssets/img/apage.png",
-    "link":"https://etmami-themeforest.web.app/apage/preview/",
-    "linkG": "/elmoziml/Apage-App-Landing-Page/"
+    "link":"https://faresdjefaflia.github.io/Apage/",
+    "linkG": "/faresdjefaflia/Apage/"
   },
   {
-    "name": "JSAlgohub",
+    "name": "JSArea",
     "description": "JavaScript educational site",
-    "nameAr": "JSAlgohub",
+    "nameAr": "JSArea",
     "descriptionAr": "موقع تعليمي للجافا سكريبت",
-    "img":"/portfolioAssets/img/jsalgohub.png",
+    "img":"/portfolioAssets/img/jsarea.png",
     "link":"https://www.behance.net/gallery/213412537/JSAlgoHub",
-    "linkG": "/frs99/JSArea/"
+    "linkG": "/faresdjefaflia/JSArea/"
   }
 ]
