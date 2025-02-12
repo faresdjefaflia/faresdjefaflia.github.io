@@ -14,8 +14,6 @@
       I enjoy learning and contributing to open-source projects.
     </p>
 
-    <!-- <p>I am also very interested in the sciences of Sharia and its branches.</p> -->
-
     <br>
 
     <p>I worked for two years at "<strong><a target="_blank" href="https://www.algerietelecom.dz/ar">Algerie
@@ -36,29 +34,21 @@
     </p>
 
     <br>
-    <!-- 
-    <p>Currently, I am working on several projects, including <strong><a target="_blank"
-          href="https://github.com/himzml">Etmami</a></strong>, a special project that supports and assists digital
-      activities. I am also working on <strong><a target="_blank" href="https://github.com/gheyth">@Gheyth</a></strong>,
-      which provides content for the service of Islam, along with other numerous projects that you can find on my
-      <strong><a target="_blank" href="/portfolio/">portfolio page</a></strong>.</p>
-
-    <br> -->
 
     <p>Currently, I am learning backend development using <strong><a target="_blank"
-          href="https://nodejs.org/">Node.js</a></strong> and plan to explore <strong><a target="_blank"
-          href="https://flutter.dev/">Flutter</a></strong>.</p>
+          href="https://nodejs.org/">Node.js</a></strong></p>
     <br>
 
     <br>
 
-    <p>If you would like to view my resume or learn more about me, you can send an <strong><a target="_blank"
-          href="mailto:frs99.me@gmail.com">email</a></strong>.</p>
+    <p>If you would like to view my resume or learn more about me <strong><a target="_blank"
+          href="https://docs.google.com/document/d/1gQSRnNJPpc8pkhXge9SnD5fPLmelekdQ-OrUDtI9_DE/edit?usp=sharing">click me</a></strong>.
+    </p>
 
     <br>
 
     <p>You can find me on <strong><a target="_blank" href="https://twitter.com/_frs99">Twitter</a></strong>, <strong><a
-          target="_blank" href="https://github.com/frs99">GitHub</a></strong>, or <strong><a target="_blank"
+          target="_blank" href="https://github.com/faresdjefaflia">GitHub</a></strong>, or <strong><a target="_blank"
           href="https://t.me/faresdjefaflia">Telegram</a></strong>.</p>
 
     <br>
