@@ -45,6 +45,15 @@
     "linkG": "/faresdjefaflia/Apage/"
   },
   {
+    "name": "NoteKeeper",
+    "description": "Back and Front End Notes Management",
+    "nameAr": "NoteKeeper",
+    "descriptionAr": "باك وفرونت اند لادارة الملاحظات",
+    "img":"/portfolioAssets/img/NoteKeeper.png",
+    "link":"https://youtu.be/kQeq47EgirM",
+    "linkG": "/faresdjefaflia/NoteKeeper/"
+  },
+  {
     "name": "JSArea",
     "description": "JavaScript educational site",
     "nameAr": "JSArea",
@@ -52,5 +61,14 @@
     "img":"/portfolioAssets/img/jsarea.png",
     "link":"https://www.behance.net/gallery/213412537/JSAlgoHub",
     "linkG": "/faresdjefaflia/JSArea/"
+  },
+  {
+    "name": "Marketly",
+    "description": "Full E-Commerce websit",
+    "nameAr": "Marketly",
+    "descriptionAr": "موقع التجارة الإلكترونية الكامل",
+    "img":"/portfolioAssets/img/Marketly.png",
+    "link":"https://www.behance.net/gallery/217361379/Marketly",
+    "linkG": "/faresdjefaflia/Marketly/"
   }
 ]
