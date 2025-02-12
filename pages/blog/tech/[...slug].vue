@@ -39,6 +39,9 @@ const { data } = await useAsyncData(`content-${path}`, () => {
 </script>
 
 <style>
+.article-blog {
+  overflow-wrap: break-word;
+}
 .big-title {
     height: calc(100vh - 80px);
   }
@@ -85,6 +88,7 @@ const { data } = await useAsyncData(`content-${path}`, () => {
     color: #C9ADA7;
     border-radius: 3px;
     padding: 2px 6px;
+    overflow-wrap: break-word;
   }
   .article-blog pre{
     margin: 10px 0;
@@ -94,9 +98,8 @@ const { data } = await useAsyncData(`content-${path}`, () => {
     color: #C9ADA7;
     border-radius: 6px;
   }
-/* @media (min-width:650px){
-  .big-title {
-      height: calc(100vh - 80px);
-    }
-} */
+  table{
+    display: block;
+    overflow-x: auto;
+  }
 </style>
