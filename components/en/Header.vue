@@ -35,9 +35,9 @@
 
       <nav>
         <ul class="w-3/4 my-10 mx-auto sm:w-auto flex justify-between text-color05 font-medium">
-          <li class="sm:mr-5 flex items-center justify-center"><a target="_blank" class="flex items-center justify-center" href="https://twitter.com/_frs99"><i class="fi fi-brands-twitter text-lg h-5"></i></a></li>
-          <li class="sm:mr-5 flex items-center justify-center"><a target="_blank" class="flex items-center justify-center" href="https://github.com/frs99"><i class="fi fi-brands-github text-lg h-5"></i></a></li>
-          <!-- <li class="sm:mr-5 flex items-center justify-center"><a target="_blank" class="flex items-center justify-center" href="https://dev.to/frs99"><i class="fi fi-brands-dev text-lg h-5"></i></a></li> -->
+          <li class="sm:mr-5 flex items-center justify-center"><a target="_blank" class="flex items-center justify-center" href="https://twitter.com/_frs99"><i class="fi fi-brands-twitter-alt-circle text-lg h-5"></i></a></li>
+          <li class="sm:mr-5 flex items-center justify-center"><a target="_blank" class="flex items-center justify-center" href="https://github.com/faresdjefaflia"><i class="fi fi-brands-github text-lg h-5"></i></a></li>
+          <li class="sm:mr-5 flex items-center justify-center"><a target="_blank" class="flex items-center justify-center" href="https://www.linkedin.com/in/faresdjefaflia/"><i class="fi fi-brands-linkedin text-lg h-5"></i></a></li>
           <li><NuxtLink class="block font-medium text-xs lang bg-color04 rounded-md py-1 px-5 sm:px-2 text-color01" to="/">العربية</NuxtLink></li>
         </ul>
       </nav>

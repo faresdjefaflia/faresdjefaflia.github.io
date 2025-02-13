@@ -21,7 +21,8 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "deploy": "npm run generate",
-    "Updating local packages": "npm outdated"
+    "Updating local packages": "npm outdated",
+    "cleanup": "npx nuxi cleanup"
   },
   "devDependencies": {
     "@nuxt/content": "2.13.4",
@@ -30,5 +31,8 @@
     "@tailwindcss/typography": "0.5.15",
     "nuxt": "3.13.2",
     "nuxt-gtag": "3.0.1"
+  },
+  "dependencies": {
+    "@flaticon/flaticon-uicons": "^3.3.1"
   }
 }
