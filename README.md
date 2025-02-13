@@ -1,32 +1,19 @@
 # Fares Djefaflia
 
-Hello, my name is **Fares**. I am 25 years old and I love logic and analysis.
+Hello, my name is **Fares**. I love logic and analysis.
 
-I am a **network technician** and a **web developer**, and I am interested in UX/UI design. I enjoy learning and contributing to open-source projects.
+I am a **network technician** and a **web developer**, and **UX/UI designer**.  
+I enjoy learning and contributing to open-source projects.
 
-I am also very interested in the sciences of Sharia and its branches.
+I worked for two years at ["**Algerie Telecom**"](https://www.algerietelecom.dz/ar), and the first website I programmed was in 2019.
 
-**Experience**
+I am proficient in using computers and the internet for various purposes, mostly in programming and design.  
+I am skilled in core programming languages for front-end web development, and I am proficient in using the [**Vue.js**](https://vuejs.org/), [**Nuxt.js**](https://nuxt.com/), and [**TailwindCSS**](https://tailwindcss.com/) frameworks.
 
-* Worked for two years at "**Algerie Telecom**" (https://www.algerietelecom.dz/ar).
-* First website programmed in 2019.
+I also have proficiency in using various Adobe programs such as **Figma** and **Illustrator**.
 
-**Skills**
+Currently, I am learning backend development using [**Node.js**](https://nodejs.org/).
 
-* Proficient in using computers and the internet for various purposes, mostly in programming and design.
-* Skilled in core programming languages for front-end web development.
-* Proficient in using the **Vue.js** (https://vuejs.org/), **Nuxt.js** (https://nuxt.com/), and **TailwindCSS** (https://tailwindcss.com/) frameworks.
-* Proficient in using various Adobe programs such as Figma and Illustrator.
+If you would like to view my resume or learn more about me, [**click here**](https://docs.google.com/document/d/1gQSRnNJPpc8pkhXge9SnD5fPLmelekdQ-OrUDtI9_DE/edit?usp=sharing).
 
-**Learning**
-
-* Currently learning backend development using **Node.js** (https://nodejs.org/) and plan to explore **Flutter** (https://flutter.dev/).
-
-**Contact**
-
-* If you would like to view my resume or learn more about me, you can send an email to [frs99.me@gmail.com](mailto:frs99.me@gmail.com).
-* You can find me on Twitter (https://twitter.com/_frs99), GitHub (https://github.com/frs99), or Telegram (https://t.me/faresdjefaflia).
-
-**License**
-
-CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/) FARES 2024
+You can find me on [**Twitter**](https://twitter.com/_frs99), [**GitHub**](https://github.com/faresdjefaflia), or [**Telegram**](https://t.me/faresdjefaflia).
