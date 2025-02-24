@@ -90,6 +90,7 @@ const { data } = await useAsyncData(`content-${path}`, () => {
     padding: 2px 6px;
     overflow-wrap: break-word;
     unicode-bidi: embed !important;
+    display: inline-flex;
   }
   .article-blog pre{
     margin: 10px 0;
