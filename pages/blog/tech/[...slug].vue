@@ -2,7 +2,7 @@
   <section class="pb-20 px-10 sm:container sm:my-0 sm:mx-auto md:max-w-3xl 2xl:max-w-5xl text-white">
     
     <div class="big-title mb-10 sm:mb-0 flex justify-center items-center">
-      <h1 class="inline-block text-6xl sm:text-7xl text-color04 text-right w-96 rounded-md font-bold">{{data.title}}</h1>
+      <h1 class="inline-block text-6xl sm:text-7xl text-color04 text-right w-full rounded-md font-bold break-words">{{data.title}}</h1>
     </div>
 
     <ul>
@@ -91,6 +91,7 @@ const { data } = await useAsyncData(`content-${path}`, () => {
     overflow-wrap: break-word;
     unicode-bidi: embed !important;
     display: inline-flex;
+    width: 100%;
   }
   .article-blog pre{
     margin: 10px 0;
