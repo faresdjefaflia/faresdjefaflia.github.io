@@ -16,15 +16,33 @@
 
     <hr class="mt-3 w-1/2 border-t-color02">
 
+    <div
+      v-if="grid" 
+      @click="toGrid"
+      class="border border-color02 flex justify-center items-center text-color01 w-fit mt-3 rounded-lg px-2 py-1 bg-color03 cursor-pointer hover:text-color03 hover:bg-transparent transition-all"
+    >
+      <i class="fi fi-sr-objects-column flex items-center ml-2"></i>
+      <p>ايقاف تشغيل العرض الشبكي</p>
+    </div>
+
+    <div
+      v-else 
+      @click="toGrid"
+      class="border border-color02 flex justify-center items-center text-color03 w-fit mt-3 rounded-lg px-2 py-1 bg-transparent cursor-pointer hover:text-color01 hover:bg-color03 transition-all"
+    >
+      <i class="fi fi-tr-objects-column flex items-center ml-2"></i>
+      <p>تشغيل العرض الشبكي</p>
+    </div>
+
     <ContentList 
-      v-if="!menu" 
+      v-if="!grid" 
       path="/blog/tech" 
       v-slot="{ list }"
     >
       <ul>
         <li class="text-white" v-for="article in list" :key="article._path">
           <NuxtLink class="flex border border-color02 rounded-lg p-3 transition-all mt-3 hover:bg-color02" :to=article._path >
-            <i class="fi fi-sr-duplicate text-color03 text-2xl"></i>
+            <i class="fi fi-sr-poll-h text-color03 text-xl"></i>
             <div class="mr-2">
               <h2 class="font-bold text-color05">{{ article.title }}</h2>
               <p class="font-light text-sm text-color04">{{ article.description }}</p>
@@ -39,7 +57,7 @@
       path="/blog/tech" 
       v-slot="{ list }"
     >
-      <ul class="grid grid-cols-3 gap-4 mt-3">
+      <ul class="grid sm:grid-cols-3 grid-cols-2 gap-4 mt-3">
         <li 
           v-for="(article, index) in list" 
           :key="article._path"
@@ -52,7 +70,7 @@
           ]"
         >
           <NuxtLink class="border border-color02 rounded-lg p-3 transition-all hover:bg-color02 block h-full" :to="article._path">
-            <i class="fi fi-sr-duplicate text-color03 text-2xl"></i>
+            <i class="fi fi-sr-poll-h text-color03 text-xl"></i>
             <div class="mr-2">
               <h2 class="font-bold text-color05">{{ article.title }}</h2>
               <p class="font-light text-sm text-color04">{{ article.description }}</p>
@@ -78,6 +96,8 @@ import { ref } from 'vue';
     layout: "arabic",
   })
 
-  const menu = ref(true);
-
+  const grid = ref(true);
+  const toGrid = () => {
+    grid.value = !grid.value
+  }
 </script>
