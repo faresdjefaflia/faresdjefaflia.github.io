@@ -100,6 +100,7 @@ const { data } = await useAsyncData(`content-${path}`, () => {
     background-color: #101018;
     color: #C9ADA7;
     border-radius: 6px;
+    border-left:6px solid #C9ADA7;
   }
   table{
     border-collapse: collapse;
