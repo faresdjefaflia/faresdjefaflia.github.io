@@ -10,7 +10,7 @@ export default defineNuxtConfig({
         { name: "theme-color", content: "#22223b" },
         { name: "apple-mobile-web-app-title", content: "FrsWebSite" },
         //google-search-console
-        { name: "google-site-verification", content: "VL-0e5AFPu64JCmHXI-_f32d7XljaQFsaM2BC0y0lQw" }
+        { name: "google-site-verification", content: "qpnfAgryYzguxA-S1ZrL4PRq1_WyOnD4EXRTS7S8t2A" }
       ],
       script: [
         // {script src="https://myawesome-lib.js"}{/script}
@@ -56,7 +56,7 @@ export default defineNuxtConfig({
   },
 
   gtag: {
-    id: 'G-Z4RVN7T083'
+    id: 'G-5E6TJ57LCR'
   },
 
   compatibilityDate: "2024-11-01",
