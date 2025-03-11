@@ -1,4 +1,5 @@
 # Fares Djefaflia
+[![Deploy to GitHub Pages](https://github.com/faresdjefaflia/faresdjefaflia.github.io/actions/workflows/nuxtjs.yml/badge.svg)](https://github.com/faresdjefaflia/faresdjefaflia.github.io/actions/workflows/nuxtjs.yml)
 
 Hello, my name is **Fares**. I love logic and analysis.
 
