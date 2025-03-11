@@ -23,13 +23,13 @@
       <div v-if="grid" @click="toGrid"
         class="border border-color02 flex justify-center items-center text-color01 w-fit mt-3 rounded-lg px-2 py-1 bg-color03 cursor-pointer hover:text-color03 hover:bg-transparent transition-all">
         <i class="fi fi-sr-objects-column flex items-center ml-2"></i>
-        <p>ايقاف تشغيل العرض الشبكي</p>
+        <p>العرض الشبكي</p>
       </div>
 
       <div v-else @click="toGrid"
         class="border border-color02 flex justify-center items-center text-color03 w-fit mt-3 rounded-lg px-2 py-1 bg-transparent cursor-pointer hover:text-color01 hover:bg-color03 transition-all">
         <i class="fi fi-tr-objects-column flex items-center ml-2"></i>
-        <p>تشغيل العرض الشبكي</p>
+        <p>العرض الشبكي</p>
       </div>
     </div>
 
