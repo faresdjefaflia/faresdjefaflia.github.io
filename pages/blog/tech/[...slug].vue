@@ -92,6 +92,7 @@ const { data } = await useAsyncData(`content-${path}`, () => {
     unicode-bidi: embed !important;
     display: inline-flex;
     width: 100%;
+    text-align: left;
   } .article-blog a code { width: auto;}
   .article-blog pre{
     margin: 10px 0;
