@@ -1,5 +1,5 @@
 <template>
-  <div id="loading">
+  <div id="loading" class="fixed inset-0 z-100 flex items-center justify-center bg-[#22223B]">
     <img class="w-24 lg:w-46" src="../assets/img/Loading.png" alt="">
   </div>
 </template>
@@ -25,18 +25,3 @@
     });
   })
 </script>
-
-<style>
-#loading {
-  display: flex;
-  position: fixed;
-  justify-content: center;
-  align-items: center;
-  top: 0;
-  left: 0;
-  z-index: 100;
-  width: 100vw;
-  height: 100vh;
-  background-color: #22223B;
-}
-</style>
