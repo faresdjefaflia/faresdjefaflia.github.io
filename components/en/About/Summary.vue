@@ -5,44 +5,39 @@
 
     <br>
 
-    <p>Hello, my name is <strong>Fares</strong>. I am {{ age }} years old and I love logic and analysis.</p>
+    <p>Hello, my name is <strong>Fares</strong>. I am {{ age }} years old, and I am passionate about logic, analysis, and building complex systems.</p>
 
-    <p>I am a <strong>network technician</strong> and a <strong>web developer</strong>, and <strong> UX/UI designer
-      </strong>
-      design.
-      <br>
-      I enjoy learning and contributing to open-source projects.
-    </p>
+    <p>I am a <strong>Full-Stack Web Developer</strong> and a <strong>Systems Programmer</strong>, with a strong interest in UX/UI design. I enjoy continuous learning and contributing to open-source projects.</p>
 
     <br>
 
-    <p>I worked for two years at "<strong><a target="_blank" href="https://www.algerietelecom.dz/ar">Algerie
-          Telecom</a></strong>," and the first website I programmed was in 2019.</p>
+    <p>The first website I programmed was in 2019, and I previously worked for two years as a network technician at "<strong><a target="_blank" href="https://www.algerietelecom.dz/ar">Algerie Telecom</a></strong>."</p>
 
     <br>
 
-    <p>I am proficient in using computers and the internet for various purposes, mostly in programming and design. I am
-      skilled in core programming languages for front-end web development, and I am proficient in using the <strong><a
-          target="_blank" href="https://vuejs.org/">Vue.js</a></strong>, <strong><a target="_blank"
-          href="https://nuxt.com/">Nuxt.js</a></strong>, and <strong><a target="_blank"
-          href="https://tailwindcss.com/">TailwindCSS</a></strong> frameworks.</p>
+    <p>Currently, I own and manage my own business, <strong><a target="_blank" href="https://elmoziml.com/">Elmoziml (elmoziml.com)</a></strong>, where I provide comprehensive software solutions and digital services for businesses, enterprises, and agencies.</p>
 
     <br>
 
-    <p>I also have proficiency in using various Adobe programs such as <strong>Figma</strong> and
-      <strong>Illustrator</strong>.
-    </p>
+    <p>I am also developing and managing <strong><a target="_blank" href="https://garage.kontrilo.com/">Kontrilo Garage</a></strong>, a comprehensive and fully integrated ERP system dedicated to managing car repair and maintenance workshops.</p>
 
     <br>
 
-    <p>Currently, I am learning backend development using <strong><a target="_blank"
-          href="https://nodejs.org/">Node.js</a></strong></p>
-    <br>
+    <p>I have advanced experience in building systems from scratch, <strong>database architecture and planning</strong>, and <strong>integrating Artificial Intelligence (AI)</strong> into applications.</p>
+    
+    <p>In front-end development, I am highly flexible with various technologies, relying primarily and professionally on <strong><a target="_blank" href="https://nextjs.org/">Next.js</a></strong>. I am also fully proficient in <strong><a target="_blank" href="https://svelte.dev/">Svelte</a></strong> and <strong><a target="_blank" href="https://nuxt.com/">Nuxt.js</a></strong> alongside <strong><a target="_blank" href="https://tailwindcss.com/">TailwindCSS</a></strong>.</p>
+    
+    <p>For the back-end, I rely on a <strong><a target="_blank" href="https://nodejs.org/">Node.js</a></strong> environment to build robust and scalable systems.</p>
 
     <br>
 
-    <p>If you would like to view my resume or learn more about me <strong><a target="_blank"
-          href="https://docs.google.com/document/d/1gQSRnNJPpc8pkhXge9SnD5fPLmelekdQ-OrUDtI9_DE/edit?usp=sharing">click me</a></strong>.
+    <p>Additionally, I am proficient in using essential Adobe design software for UI and user experience, such as <strong>Figma</strong> and <strong>Illustrator</strong>.</p>
+
+    <br>
+    <br>
+
+    <p>If you would like to view my resume or learn more about me, <strong><a target="_blank"
+          href="https://docs.google.com/document/d/1gQSRnNJPpc8pkhXge9SnD5fPLmelekdQ-OrUDtI9_DE/edit?usp=sharing">click here</a></strong>.
     </p>
 
     <br>
@@ -73,6 +68,7 @@
   let year = d.getFullYear()
   let age = year - 1999
 </script>
+
 <style scoped>
   h1{
     font-size: 38px;

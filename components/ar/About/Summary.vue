@@ -6,45 +6,45 @@
 
     <br>
 
-    <p>السلام عليكم، اسمي <strong>فارس</strong> عمري {{age}} و احب المنطق و التحليل،
-      <strong>تقني في شبكات الاتصال</strong>، <strong>مطور مواقع الويب</strong>، ومهتم بتصميم UX/UI واحب التعلم و طرح
-      المشاريع مفتوحة المصدر.
+    <p>السلام عليكم، اسمي <strong>فارس</strong> عمري {{age}} عاماً. شغوف بالمنطق، التحليل، وبناء الأنظمة المعقدة.
+      أنا <strong>مطور ويب شامل (Full-Stack)</strong> و <strong>مبرمج أنظمة</strong>، ولدي اهتمام بتصميم UX/UI. أحب التعلم المستمر وطرح المشاريع مفتوحة المصدر.
     </p>
-    <p>كذلك مهتم جدا بعلوم الشريعة وأقسامها.</p>
+    <p>كذلك مهتم جداً بعلوم الشريعة وأقسامها.</p>
 
     <br>
 
-    <p>عملت سنتين لدى &quot;<strong><a target="_blank" href="https://www.algerietelecom.dz/ar">اتصالات
-          الجزائر</a></strong>&quot;، و أول موقع إلكتروني ابرمجه كان في 2019 .</p>
+    <p>أول موقع إلكتروني قمت ببرمجته كان في عام 2019، وسبق لي العمل لمدة سنتين كتقني شبكات لدى &quot;<strong><a target="_blank" href="https://www.algerietelecom.dz/ar">اتصالات الجزائر</a></strong>&quot;.</p>
 
     <br>
 
-    <p>اجيد استخدام الكمبيوتر و الانترنت في عدة اشياء، أغلبها في البرمجة و التصميم، واجيد لغات البرمجة الأساسية لاجل
-      مطور ويب الواجهة الامامية، واجيد استخدام إطار العمل <strong><a target="_blank"
-          href="https://vuejs.org/">Vue.js@</a></strong> و <strong><a target="_blank"
-          href="https://nuxt.com/">Nuxt.js@</a></strong> و <strong><a target="_blank"
-          href="https://tailwindcss.com/">TailwindCSS@</a></strong></p>
+    <p>حالياً، أمتلك وأدير عملي الخاص <strong><a target="_blank" href="https://elmoziml.com/">المزمل (elmoziml.com)</a></strong>، حيث أقدم من خلاله حلولاً برمجية وخدمات رقمية متكاملة للأنشطة التجارية، المؤسسات، والوكالات.</p>
 
     <br>
 
-    <p>ايضا اجيد استخدام عدة برامج من ادوبي مثل: <strong>Figma</strong> و <strong>Illustrator</strong></p>
+    <p>كما أعمل على تطوير وإدارة مشروع <strong><a target="_blank" href="https://garage.kontrilo.com/">Kontrilo Garage</a></strong>، وهو نظام (ERP) شامل ومتكامل مخصص لإدارة ورشات وصيانة السيارات.</p>
 
     <br>
 
-    <p>حالياً أتعلم تطوير الواجهة الخلفية للمواقع باستخدام <strong><a target="_blank"
-          href="https://nodejs.org/">Node.js</a></strong></p>
-    <br>
+    <p>أمتلك خبرة متقدمة في بناء الأنظمة من الصفر، <strong>تخطيط وهندسة قواعد البيانات</strong>، و <strong>دمج تقنيات الذكاء الاصطناعي (AI)</strong> في التطبيقات.
+      في الواجهة الأمامية، لدي مرونة عالية في التعامل مع مختلف التقنيات، وأعتمد بشكل رئيسي واحترافي على <strong><a target="_blank" href="https://nextjs.org/">Next.js@</a></strong>، بالإضافة إلى إجادتي التامة للعمل بـ <strong><a target="_blank" href="https://svelte.dev/">Svelte@</a></strong> و <strong><a target="_blank" href="https://nuxt.com/">Nuxt.js@</a></strong> مع <strong><a target="_blank" href="https://tailwindcss.com/">TailwindCSS@</a></strong>. 
+      أما في الواجهة الخلفية (Back-end) فأعتمد على بيئة <strong><a target="_blank" href="https://nodejs.org/">Node.js</a></strong> لبناء أنظمة قوية وقابلة للتوسع.
+    </p>
 
     <br>
 
-    <p>من اجل سيرتي الذاتية أو معرفة المزيد عني يمكنك  <strong><a target="_blank"
+    <p>بالإضافة إلى البرمجة، أجيد استخدام برامج التصميم الأساسية من أدوبي لتصميم الواجهات وتجربة المستخدم مثل: <strong>Figma</strong> و <strong>Illustrator</strong>.</p>
+
+    <br>
+    <br>
+
+    <p>من أجل سيرتي الذاتية أو معرفة المزيد عني يمكنك <strong><a target="_blank"
           href="https://docs.google.com/document/d/1gQSRnNJPpc8pkhXge9SnD5fPLmelekdQ-OrUDtI9_DE/edit?usp=sharing">النقر هنا</a></strong>.
 
       <br>
 
-      او يمكنك أن تجدني في <strong><a target="_blank" href="https://twitter.com/_frs99">Twitter</a></strong> <strong><a
-          target="_blank" href="https://github.com/faresdjefaflia">Github</a></strong> او <strong><a target="_blank"
-          href="https://t.me/faresdjefaflia">Telegram</a></strong> .
+      أو يمكنك أن تجدني في <strong><a target="_blank" href="https://twitter.com/_frs99">Twitter</a></strong>، <strong><a
+          target="_blank" href="https://github.com/faresdjefaflia">Github</a></strong> أو <strong><a target="_blank"
+          href="https://t.me/faresdjefaflia">Telegram</a></strong>.
     </p>
 
     <br>

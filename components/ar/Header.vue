@@ -39,7 +39,7 @@
 
       <nav>
         <ul class="w-3/4 my-10 mx-auto sm:w-auto flex justify-between text-color05 font-medium">
-          <li class="sm:ml-5 flex items-center justify-center"> <a target="_blank" class="flex items-center justify-center" href="https://twitter.com/_frs99"><i class="fi fi-brands-twitter-alt-circle text-lg h-5"></i></a></li>
+          <li class="sm:ml-5 flex items-center justify-center"> <a target="_blank" class="flex items-center justify-center" href="https://twitter.com/faresdjefaflia"><i class="fi fi-brands-twitter-alt-circle text-lg h-5"></i></a></li>
           <li class="sm:ml-5 flex items-center justify-center"><a target="_blank" class="flex items-center justify-center" href="https://github.com/faresdjefaflia"><i class="fi fi-brands-github text-lg h-5"></i></a></li>
           <li class="sm:ml-5 flex items-center justify-center"><a target="_blank" class="flex items-center justify-center" href="https://www.linkedin.com/in/faresdjefaflia/"><i class="fi fi-brands-linkedin text-lg h-5"></i></a></li>
           <li>
